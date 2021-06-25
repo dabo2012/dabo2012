@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dabo2012
-- 👀 I’m interested in
 - 🌱 I’m currently learning programación en Henry
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me danielabollini@hotmail.com
 
 <!---
 dabo2012/dabo2012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
